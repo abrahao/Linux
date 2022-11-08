@@ -1,0 +1,10 @@
+DATABASE
+
+database: meubanco
+table: mensagens
+
+Estrutura da tabela
+id | int
+nome | varchar
+email | varchar
+comentario | varchar
